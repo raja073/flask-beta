@@ -1,7 +1,1 @@
-A Movie Recommender web application build using 
-
-	- Python Flask
-
-	- Scikit-Learn
-	
-	- PostgreSQL
+This is practice tutorial from Python Flask from miguelgrinberg.com
